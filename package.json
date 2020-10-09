@@ -17,7 +17,8 @@
   },
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
-    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor.git"
+    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor.git",
+    "http-proxy-middleware": "^1.0.5"
   },
   "version": "1.0.0",
   "main": "server/index.js",
